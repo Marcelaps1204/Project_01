@@ -1,0 +1,8 @@
+gradio == 4.17.0
+streamlit == 1.30.0
+numpy == 1.26.3
+scikit-learn == 1.4.0
+pandas == 2.1.4
+plotly-express == 0.4.1
+pillow == 10.2.0
+matplotlib == 3.8.2
